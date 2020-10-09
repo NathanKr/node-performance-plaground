@@ -1,0 +1,21 @@
+{
+  "name": "node-performance-plaground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-index1-inspect" : "node --inspect-brk  index1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanKr/node-performance-plaground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanKr/node-performance-plaground/issues"
+  },
+  "homepage": "https://github.com/NathanKr/node-performance-plaground#readme"
+}
